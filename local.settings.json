@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "APP_ID": "",
+    "APPLICATION_SECRET": "",
+    "TENANT_ID":"",
+    "AZURE_SUBSCRIPTION_ID":"",
+    "TRAFFIC_MANAGERS_RESOURCE_GROUP":""
+  }
+}

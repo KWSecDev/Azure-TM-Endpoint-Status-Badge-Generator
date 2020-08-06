@@ -1,0 +1,16 @@
+{
+  "name": "Azure-TM-Endpoint-Status-Badge-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "azure-arm-resource": "^7.4.0",
+    "azure-arm-trafficmanager": "^4.1.0",
+    "badge-maker": "^3.2.0",
+    "ms-rest-azure": "^3.0.0"
+  },
+  "devDependencies": {}
+}
